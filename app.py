@@ -129,4 +129,4 @@ with st.expander("Model Information"):
 **Dataset:** Kaggle Employee Attrition Dataset
 """)
 
-st.markdown('<div class="footer">Developed by Satgur Prasad Rao | MCA Final Project | Amrita Ahead University</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Developed by Tamanna Rao | Intern | DTU</div>', unsafe_allow_html=True)
