@@ -7,7 +7,7 @@ st.set_page_config(page_title="Employee Churn Prediction", page_icon="📊", lay
 
 @st.cache_resource
 def load_model():
-    return joblib.load("employee_churn_pipeline.pkl")
+    return joblib.load("employee_churn_pipeline_full.pkl")
 
 model = load_model()
 
